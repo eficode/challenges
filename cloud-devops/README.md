@@ -4,10 +4,10 @@ This challenge is about nesting and flattening json data.
 
 ## Overview
 The task is to expose 2 http(s) endpoints:
-
+```
 <url_of_your_choice>/nest
 <url_of_your_choice>/flatten
-
+```
 
 ## About the "flatten" endpoint
 
