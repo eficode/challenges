@@ -41,7 +41,7 @@ Sending fruits.json must produce this output:
 
 This folder contains a frame for implementing flattening logic locally in Python. If you prefer another language, please feel free to use any. 
 
-If you wish to try implementing flattening logic in python you need to do is to open `answer.py` fill in the contents for `def serialize(data):`. The function needs to return a dictionary where both keys and values are simple strings.
+If you wish to try implementing flattening logic in python, all you need to do is to open `answer.py` fill in the contents for `def serialize(data):`. The function needs to return a dictionary where both keys and values are simple strings.
 Example:
 ```
 return {
