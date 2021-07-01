@@ -67,6 +67,7 @@ Nest is flatten in reverse. If a user submits any json to `flatten` endpoint, th
 - It doesn't matter which http request types you use. As long as it works.
 - Could be cool to have 2 serverless functions exposed by an api gateway. But there's no single correct way. Could just as well be a container running somewhere.
 - You can try to implement the logic as a one-liner. It's possible.
+- Would be cool to also have a UI if anyone needs to flatten or nest their json.
 
 
 Have fun!
