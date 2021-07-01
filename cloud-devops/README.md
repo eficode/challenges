@@ -19,20 +19,20 @@ There are some JSON data in [cars.json](cars.json) and [fruits.json](fruits.json
 Sending cars.json must produce this output:
 ```
 {
-  "toyota.wheels.0 = big",
-  "toyota.wheels.1 = small",
-  "toyota.models.0.corolla.color.light = grey",
-  "toyota.models.0.corolla.color.dark = blue"
+  "toyota.wheels.0": "big",
+  "toyota.wheels.1": "small",
+  "toyota.models.0.corolla.color.light": "grey",
+  "toyota.models.0.corolla.color.dark": "blue"
 }
 ```
 
 Sending fruits.json must produce this output:
 ```
 {
-  "banana.colors.0 = green",
-  "banana.colors.1 = yellow",
-  "banana.tastes.ripe = sweet",
-  "banana.tastes.raw = sour"
+  "banana.colors.0": "green",
+  "banana.colors.1": "yellow",
+  "banana.tastes.ripe": "sweet",
+  "banana.tastes.raw": "sour"
 }
 
 ```
